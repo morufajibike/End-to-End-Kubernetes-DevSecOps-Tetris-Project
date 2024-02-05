@@ -1,3 +1,4 @@
+variable "region" {}
 variable "vpc-name" {}
 variable "igw-name" {}
 variable "rt-name" {}
